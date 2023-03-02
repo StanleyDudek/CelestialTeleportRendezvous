@@ -1,5 +1,5 @@
 # CelestialTeleportRendezvous
-A cheat menu for KSP2, written in Lua, using [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window), itself requiting [BepinEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202), as a jumping off point, just load this .lua through the Lua debug panel.
+A cheat menu for KSP2, written in Lua, using [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window), itself requiring [BepinEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202), as a jumping off point, just load this .lua through the Lua debug panel.
 
 To install, unpack to `Kerbal Space Program 2` folder.
 
